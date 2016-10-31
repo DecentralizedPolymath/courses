@@ -3,7 +3,10 @@
   "creationDate": "",
   "lastUpdated": "",
   "description": "In this course you will learn about stuff",
-  "subjects": [
-    "Stuff"
+  "concepts": [
+    {"Stuff": "0x02..", "preReqs": [
+      "stuff2": "0x0...", "..."
+    ]},
+    {"OtherStuff": "0x0"}
   ]
 }
